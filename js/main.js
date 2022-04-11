@@ -159,7 +159,7 @@
                 $target.html("<div class='alert alert-success'><p>Please select all required field.</p></div>");
             } else {
                 $.ajax({
-                    url: "vendor/php/contact-form-process.php",
+                    url: "slide/php/contact-form-process.php",
                     type: "POST",
                     data: contactForm.serialize(),
                     beforeSend: function () {
