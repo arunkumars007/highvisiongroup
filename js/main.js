@@ -35,7 +35,7 @@
     /*-------------------------------------
      jQuery MeanMenu activation code
      --------------------------------------*/
-    $('nav#dropdown').meanmenu({siteLogo: "<a href='index.html'><img src='img/logo.png' alt='logo' class='img-fluid'></a>"});
+    $('nav#dropdown').meanmenu({siteLogo: "<a href='index.html'><img src='' alt='logo' class='img-fluid'></a>"});
 
     /*-------------------------------------
      Wow js Active
